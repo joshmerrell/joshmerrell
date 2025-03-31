@@ -21,4 +21,4 @@ I am learning (or plan on learning) the following languages
 - x86 Assembly
 - [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
