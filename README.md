@@ -3,7 +3,7 @@
 ## :wave: Intro
 I am a computer science student at Eastern Washington University, using this account for my assignments.
 
-## :pencil: Languages
+## :desktop_computer: Languages
 I am proficient in the following languages (in no particular order)
 - JavaScript (and TypeScript)
 - [Go](https://go.dev)
