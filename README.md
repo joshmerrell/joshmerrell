@@ -12,7 +12,7 @@ I am proficient in the following languages (in no particular order)
 - C
 
 I am reasonably familiar with the following languages
-- 6502 Assembly
+- [6502 Assembly](https://skilldrick.github.io/easy6502/)
 - C++
 
 I am learning (or plan on learning) the following languages
