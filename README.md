@@ -1,7 +1,24 @@
 # Joshua Merrell
 
-## Who
-I am a student at Eastern Washington University, using this account for my assignments.
+## :wave: Intro
+I am a computer science student at Eastern Washington University, using this account for my assignments.
 
-## TODO
-Add more stuff (maybe)
+## :pencil: Languages
+I am proficient in the following languages (in no particular order)
+- JavaScript (and TypeScript)
+- [Go](https://go.dev)
+- [Python](https://python.org)
+- [GDScript](https://godotengine.org)
+- C
+
+I am reasonably familiar with the following languages
+- 6502 Assembly
+- C++
+
+I am learning (or plan on learning) the following languages
+- Scheme
+- [Rust](https://rust-lang.org)
+- x86 Assembly
+- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
