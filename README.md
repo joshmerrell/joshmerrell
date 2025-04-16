@@ -20,6 +20,5 @@ I am learning (or plan on learning) the following languages
 - [Racket](https://racket-lang.org/)
 - Rust
 - x86 Assembly
-- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
