@@ -9,11 +9,11 @@ I am proficient in the following languages (in no particular order)
 - [Go](https://go.dev)
 - Python
 - [GDScript](https://godotengine.org)
+- C#
 - C
 
 I am reasonably familiar with the following languages
 - [6502 Assembly](https://skilldrick.github.io/easy6502/)
-- C#
 - C++
 
 I am learning (or plan on learning) the following languages
